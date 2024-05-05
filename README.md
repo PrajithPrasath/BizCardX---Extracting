@@ -29,15 +29,18 @@ BizCardX is a Streamlit web application designed to effortlessly extract data fr
 -After the transformation process, the data is stored in the MySQL database<br>
 
 **USER GUIDE**<br>
+
 **Home**<br>
 -**Navigation:** Click on the "Home" option in the navigation menu to go to the home page.<br>
 -**Overview:** In the home page, you'll find an introduction to BizCardX along with an image illustrating its functionality.<br>
+
 **Upload & Modify**<br>
 -**Upload Image:** Select the "Upload & Modify" option from the navigation menu. Upload an image of a business card by clicking the "Upload the file" button. Supported image formats include PNG, JPEG, and JPG.<br>
 -**Extract Data:** After uploading the image, BizCardX will extract the data from the business card using OCR. Extracted data will be displayed in a tabular format below the uploaded image.<br>
 -**Save Data:** If the extracted data is correct, click the "Save" button to save the data to a MySQL database.<br>
 -**Preview Data:** Choose the "Preview" option from the "Select the method" radio button to preview the data stored in the database.<br>
 -**Modify Data:** Select the "Modify" option from the "Select the method" radio button to modify existing data in the database. You can edit the data for each field and click "Modify" to save the changes.<br>
+
 **Delete**<br>
 -**Delete Data:** To delete data from the database, select the "Delete" option from the navigation menu. Choose the name and designation of the data you want to delete, then click the "Delete" button.<br>
 
